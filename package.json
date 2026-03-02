@@ -1,0 +1,26 @@
+{
+  "name": "noah-lib",
+  "version": "1.0.0",
+  "description": "A component and utility library",
+  "main": "dist/index.cjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capt-noah/noah-lib.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "auth",
+    "library",
+    "utility"
+  ],
+  "author": "Noah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/capt-noah/noah-lib/issues"
+  },
+  "homepage": "https://github.com/capt-noah/noah-lib#readme"
+}
